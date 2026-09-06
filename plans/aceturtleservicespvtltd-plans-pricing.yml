@@ -1,0 +1,11 @@
+generated: '2026-09-06'
+method: searched
+source: https://aceturtle.com/rubicon-connect-app-albus/
+plan_count: 0
+plans: []
+note: >-
+  Ace Turtle publishes no pricing for Rubicon, Connect App or Albus. The site carries no /pricing
+  page (it is absent from https://aceturtle.com/sitemap_index.xml) and every platform page ends in
+  the same call to action — "Get Answers To All Your Questions, Or Book A Demo With Us!" — routing
+  to the https://aceturtle.com/contact-us/ form. Commercial terms are set in an enterprise sales
+  conversation. No Pricing pointer is wired in apis.yml because no pricing page is served.

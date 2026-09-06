@@ -1,0 +1,15 @@
+generated: '2026-09-06'
+method: probed
+source: >-
+  Registry sweeps of npm (registry.npmjs.org search), PyPI (pypi.org/pypi/aceturtle/json), and a
+  GitHub user/repo/org search for "aceturtle", plus a read of aceturtle.com for SDK or download
+  links.
+package_count: 0
+packages: []
+note: >-
+  No first-party client library exists in any public package registry. npm search for "aceturtle"
+  returns 0 results; pypi.org/pypi/aceturtle/json returns 404; there is no api-evangelist-verifiable
+  first-party GitHub organization (the accounts matching "aceturtle" are individual developer
+  accounts and contractor project repositories such as AceTurtlePuma and AceTurtleService, not a
+  company org). No SDKs pointer is wired in apis.yml because there is no SDK to point at. Version
+  and published fields are omitted rather than null because there is no package to date.

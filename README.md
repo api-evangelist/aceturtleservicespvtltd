@@ -1,4 +1,4 @@
-# Aceturtleservicespvtltd
+# Ace Turtle Services Pvt Ltd
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Aceturtleservicespvtltd is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
+Ace Turtle Services Pvt Ltd (brand "ace turtle") is a Bengaluru, India retail technology company
+founded in 2014 that operates a vertical commerce model for international fashion and lifestyle
+brands, and is the exclusive licensee in India and South Asia for Lee, Wrangler, G-STAR, Toys"R"Us
+and Dockers. It runs three proprietary platforms: **Rubicon** (omnichannel commerce — distributed
+order management, inventory, catalogue, pricing and logistics management), **Connect App** (store
+operations) and **Albus** (machine learning for inventory optimisation and dynamic markdown).
+
+Rubicon is marketed as integrating into a brand's existing technology ecosystem, but as of the
+2026-09-06 enrichment pass Ace Turtle publishes **no developer portal, no API reference and no
+machine-readable contract** on any host it controls. See `x-coverage` in `apis.yml` for the probed
+evidence.
+
+- https://aceturtle.com/
+- https://aceturtle.com/rubicon-connect-app-albus/
 - https://equityzen.com/company/aceturtleservicespvtltd
