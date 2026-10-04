@@ -1,5 +1,5 @@
 aid: aceturtleservicespvtltd
-name: Ace Turtle Services Pvt Ltd
+name: Ace Turtle Services
 description: >-
   Ace Turtle Services Pvt Ltd (brand "ace turtle") is a Bengaluru, India based retail technology
   company founded in 2014 that operates a vertical commerce model for international fashion and
@@ -28,7 +28,7 @@ tags:
 - E-Commerce
 - Omnichannel
 - Order Management
-- Inventory Management
+- Inventory
 - Logistics
 - Fashion
 - India
@@ -101,3 +101,4 @@ x-coverage:
   - url: https://aceturtle.com/.well-known/api-catalog
     status: 404
   checked: '2026-09-06'
+x-legal-name: Ace Turtle Services Pvt Ltd
