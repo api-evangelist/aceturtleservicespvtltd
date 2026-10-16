@@ -3,18 +3,10 @@
   "feeds": [
     {
       "source": "https://aceturtle.com/blog/",
-      "error": "URLError"
-    },
-    {
-      "source": "https://aceturtle.com/about-us/",
-      "error": "TimeoutError"
-    },
-    {
-      "source": "https://aceturtle.com/blog/feed/",
       "feed_url": "https://aceturtle.com/blog/feed/",
       "title": "",
       "saved": 0,
-      "method": "feed"
+      "method": "discovered"
     },
     {
       "source": "https://aceturtle.com/feed/",
@@ -22,8 +14,15 @@
       "title": "",
       "saved": 0,
       "method": "feed"
+    },
+    {
+      "source": "https://aceturtle.com/blog/feed/",
+      "feed_url": "https://aceturtle.com/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
     }
   ],
   "post_count": 10,
-  "fetched": "2026-10-03T12:30:02Z"
+  "fetched": "2026-10-10T13:15:00Z"
 }
