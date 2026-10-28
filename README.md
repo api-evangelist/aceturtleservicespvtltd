@@ -1,4 +1,4 @@
-# Ace Turtle Services Pvt Ltd
+# Ace Turtle Services
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,18 +64,87 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Ace Turtle Services Pvt Ltd (brand "ace turtle") is a Bengaluru, India retail technology company
-founded in 2014 that operates a vertical commerce model for international fashion and lifestyle
-brands, and is the exclusive licensee in India and South Asia for Lee, Wrangler, G-STAR, Toys"R"Us
-and Dockers. It runs three proprietary platforms: **Rubicon** (omnichannel commerce — distributed
-order management, inventory, catalogue, pricing and logistics management), **Connect App** (store
-operations) and **Albus** (machine learning for inventory optimisation and dynamic markdown).
+Ace Turtle Services Pvt Ltd (brand "ace turtle") is a Bengaluru, India based retail technology company founded in 2014 that operates a vertical commerce model for international fashion and lifestyle brands. It is the exclusive licensee in India and South Asia for brands including Lee, Wrangler, G-STAR, Toys"R"Us and Dockers, and it runs three proprietary platforms: Rubicon, an omnichannel commerce platform combining distributed order management, inventory, catalogue, pricing and logistics management; Connect App, a store-operations application for in-store fulfilment, helpdesk and visual merchandising; and Albus, a machine-learning layer for inventory optimisation, safety-stock calculation and dynamic markdown. Rubicon is marketed as a channel-agnostic platform that integrates into a brand's existing technology ecosystem, but as of the September 2026 enrichment pass the company publishes no developer portal, no API reference and no machine-readable contract on any host it controls.
 
-Rubicon is marketed as integrating into a brand's existing technology ecosystem, but as of the
-2026-09-06 enrichment pass Ace Turtle publishes **no developer portal, no API reference and no
-machine-readable contract** on any host it controls. See `x-coverage` in `apis.yml` for the probed
-evidence.
+**Areas:** Company · Retail · E-Commerce · Omnichannel · Order Management · Inventory · Logistics · Fashion · India · Software-as-a-Service
 
-- https://aceturtle.com/
-- https://aceturtle.com/rubicon-connect-app-albus/
-- https://equityzen.com/company/aceturtleservicespvtltd
+## Ace Turtle Services on APIs.io
+
+Everything profiled for Ace Turtle Services is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/aceturtleservicespvtltd/](https://apis.io/providers/aceturtleservicespvtltd/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Aceturtleservicespvtltd Domain Security](https://apis.io/security/aceturtleservicespvtltd/aceturtleservicespvtltd-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Aceturtleservicespvtltd Plans Pricing](https://apis.io/plans/aceturtleservicespvtltd/aceturtleservicespvtltd-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://aceturtle.com/)
+- [Blog](https://aceturtle.com/blog/)
+- [Privacy policy](https://aceturtle.com/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 6.7** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 10.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 9.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aceturtleservicespvtltd/](https://apis.io/providers/aceturtleservicespvtltd/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Ace Turtle Services: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/aceturtleservicespvtltd/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
